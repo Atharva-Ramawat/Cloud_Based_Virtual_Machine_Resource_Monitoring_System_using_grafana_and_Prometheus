@@ -1,5 +1,5 @@
 import requests
-
+import csv
 from datetime import datetime
 
 PROMETHEUS_URL = 'http://localhost:9090/api/v1/query'
