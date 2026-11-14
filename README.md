@@ -10,7 +10,7 @@ An automated cloud infrastructure monitoring stack deployed on an AWS EC2 instan
 * **Metrics Collection:** Prometheus & Node Exporter
 * **Visualization & Alerting:** Grafana 
 * **Notifications:** Slack Incoming Webhooks
-* **Automation:** Python (Requests, )
+* **Automation:** Python (Requests, CSV)
 
 ## ✨ Core Features
 1. **Hardware Telemetry:** Node Exporter exposes kernel and machine-level metrics.
