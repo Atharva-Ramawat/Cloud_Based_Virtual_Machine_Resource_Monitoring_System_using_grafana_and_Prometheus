@@ -4,7 +4,7 @@ An automated cloud infrastructure monitoring stack deployed on an AWS EC2 instan
 
 **Author:** Atharva Dilip Ramawat, Final Year B.Tech Data Science 
 
-## 🏗️ Architecture & Tech Stack
+### 🏗️ Architecture & Tech Stack
 * **Infrastructure:** AWS EC2 (Ubuntu Linux)
 * **Containerization:** Docker & Docker Compose
 * **Metrics Collection:** Prometheus & Node Exporter
